@@ -1,4 +1,4 @@
-Below is an updated version of the script that includes colored output and exits with an error message if a required input is missing or if a critical error occurs.
+
 
 import sys
 import requests
